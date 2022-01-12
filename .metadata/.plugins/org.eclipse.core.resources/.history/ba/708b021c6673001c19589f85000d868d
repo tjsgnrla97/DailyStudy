@@ -1,0 +1,17 @@
+
+public class ifTest {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		//80점이상 A, 80미만 60점 이상 B, 60점 미만 C
+		int score;
+		if(score >= 80) {
+			System.out.println("A");
+		}else if(score < 80 && score >=60) {
+			System.out.println("B");
+		}else if(score <60) {
+			System.out.println("C");
+		}
+	}
+
+}

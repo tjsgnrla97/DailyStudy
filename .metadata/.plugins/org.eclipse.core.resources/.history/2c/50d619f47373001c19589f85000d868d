@@ -1,0 +1,18 @@
+import java.util.Scanner;
+
+public class ScannerTest {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		/*
+		문자열
+		A 0 10 
+		*/
+		
+		Scanner sc = new Scanner(System.in);
+		//문자열 입력 받기
+		String s = sc.next();
+		System.out.println(s);
+	}
+
+}
