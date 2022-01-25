@@ -2,7 +2,7 @@ package exception;
 
 import java.util.Random;
 
-public class ArithmeticException{
+public class ArithException{
 
 	public static void main(String[] args) {
 		int num = new Random().nextInt(2);

@@ -3,10 +3,7 @@ public class Main {
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);
 		int month = sc.nextInt();
-<<<<<<< HEAD
 		sc.close();
-=======
->>>>>>> ae1782e75afcc09c83025a9b1ba2cacab8982b9f
 		int day;
 		switch (month) {
 		case 1:
