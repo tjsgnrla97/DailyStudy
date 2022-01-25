@@ -1,0 +1,14 @@
+
+public class TypeCastingTest {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		//자동 형변환(묵시적 형변환)
+		int a = 'A';
+		System.out.println(a);
+		int b = 'a';
+		System.out.println(b);
+		
+	}
+
+}

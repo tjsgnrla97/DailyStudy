@@ -1,0 +1,24 @@
+
+public class arrayTest {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		//배열 선언 및 생성
+		int[] arr = new int[4];
+		for(int i=0; i < arr.length; i++) {
+			arr[i] = i+1;
+			System.out.println(arr[i]);
+		}
+		//forEach 구문 사용
+		//for( type 변수명 : 배열){
+		for(int a : arr) {
+			System.out.println(a);
+		}
+		//new int[]{1,2,3,4,5} new int[] 생략됨
+		int[] su = {1,2,3,4,5};
+		for(int s:su) {
+			System.out.println(s);
+		}
+	}
+	//int[] arr; arr=null;
+}

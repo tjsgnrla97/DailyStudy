@@ -1,0 +1,11 @@
+
+public class arrayTest {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		int[] lotto = new int[4];
+		lotto[0] = 1;
+		System.out.println(lotto[2]);
+	}
+
+}

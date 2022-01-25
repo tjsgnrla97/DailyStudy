@@ -1,0 +1,16 @@
+
+public class arrayTest {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		int[] lotto = new int[4];
+		lotto[0] = 1;
+		System.out.println(lotto);
+		int[] su = {1,2,3,4,5};
+		//new int[]{1,2,3,4,5} new int[] 생략됨
+		for(int s:su) {
+			System.out.println(s);
+		}
+	}
+	//int[] arr; arr=null;
+}

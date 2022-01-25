@@ -1,0 +1,16 @@
+
+public class whileTest {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		int number = 1;
+		int i = 1;
+		while(int i <=100) {
+			if(i%5==0)
+				number+=i;
+			i++;
+		}
+		System.out.println(number);
+	}
+
+}

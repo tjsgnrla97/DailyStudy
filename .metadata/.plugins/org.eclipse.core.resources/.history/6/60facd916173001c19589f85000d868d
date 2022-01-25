@@ -1,0 +1,15 @@
+
+public class OperatorTest {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		//비트 반전
+		int i = 4;
+		System.out.println(~i);
+		
+		//비트 이동
+		int num = -1;
+		System.out.println(num << 2);
+	}
+
+}
