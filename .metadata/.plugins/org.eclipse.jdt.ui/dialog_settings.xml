@@ -22,7 +22,10 @@
 	</section>
 	<section name="quick_assist_proposal_size">
 	</section>
+<<<<<<< HEAD
 	<section name="NewPackageWizardPage">
 		<item key="create_package_info_java" value="false"/>
 	</section>
+=======
+>>>>>>> ae1782e75afcc09c83025a9b1ba2cacab8982b9f
 </section>

@@ -1,2 +1,5 @@
 2022-01-12 11:45:03,520 [Worker-3: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is not available. Remote download required.
+<<<<<<< HEAD
 2022-01-25 08:50:30,724 [Worker-3: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+=======
+>>>>>>> ae1782e75afcc09c83025a9b1ba2cacab8982b9f

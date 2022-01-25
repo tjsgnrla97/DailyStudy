@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 INDEX VERSION 1.131+D:\GitHub\DailyStudy\.metadata\.plugins\org.eclipse.jdt.core
 1112990138.index
 1350870853.index
@@ -16,3 +17,9 @@ INDEX VERSION 1.131+D:\GitHub\DailyStudy\.metadata\.plugins\org.eclipse.jdt.core
 359656673.index
 3821692491.index
 1015640307.index
+=======
+INDEX VERSION 1.131+C:\ssafy\work_startcamp\.metadata\.plugins\org.eclipse.jdt.core
+969515665.index
+2770313059.index
+440432691.index
+>>>>>>> ae1782e75afcc09c83025a9b1ba2cacab8982b9f

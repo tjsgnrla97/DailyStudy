@@ -3,6 +3,9 @@
     <fullyQualifiedTypeName name="java.lang.Math"/>
     <fullyQualifiedTypeName name="java.util.Scanner"/>
     <fullyQualifiedTypeName name="java.lang.System"/>
+<<<<<<< HEAD
     <fullyQualifiedTypeName name="java.util.Random"/>
     <fullyQualifiedTypeName name="exception.ArithmeticException"/>
+=======
+>>>>>>> ae1782e75afcc09c83025a9b1ba2cacab8982b9f
 </qualifiedTypeNameHistroy>

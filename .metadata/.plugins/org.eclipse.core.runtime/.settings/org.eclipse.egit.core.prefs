@@ -1,3 +1,8 @@
+<<<<<<< HEAD
 GitRepositoriesView.GitDirectories=C\:\\Users\\user\\Documents\\GitHub\\Backjoon-Algorithm\\.git;D\:\\GitHub\\.git;
 GitRepositoriesView.GitDirectories.relative=C\:\\Users\\user\\Documents\\GitHub\\Backjoon-Algorithm\\.git;D\:\\GitHub\\.git;
+=======
+GitRepositoriesView.GitDirectories=C\:\\Users\\user\\Documents\\GitHub\\Backjoon-Algorithm\\.git;
+GitRepositoriesView.GitDirectories.relative=C\:\\Users\\user\\Documents\\GitHub\\Backjoon-Algorithm\\.git;
+>>>>>>> ae1782e75afcc09c83025a9b1ba2cacab8982b9f
 eclipse.preferences.version=1

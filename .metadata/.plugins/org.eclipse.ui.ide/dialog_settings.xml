@@ -6,6 +6,7 @@
 		<item key="SmartImportRootWizardPage.STORE_NESTED_PROJECTS" value="true"/>
 		<item key="SmartImportRootWizardPage.STORE_CONFIGURE_NATURES" value="true"/>
 		<list key="org.eclipse.ui.internal.wizards.datatransfer.SmartImportRootWizardPage.knownSources">
+<<<<<<< HEAD
 			<item value="D:\GitHub\DailyStudy\Startjava"/>
 			<item value="C:\Users\user\Documents\GitHub\Backjoon-Algorithm"/>
 		</list>
@@ -23,4 +24,9 @@
 			<item value=""/>
 		</list>
 	</section>
+=======
+			<item value="C:\Users\user\Documents\GitHub\Backjoon-Algorithm"/>
+		</list>
+	</section>
+>>>>>>> ae1782e75afcc09c83025a9b1ba2cacab8982b9f
 </section>

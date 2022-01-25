@@ -2758,6 +2758,7 @@ java.lang.Error: SWT Resource was not properly disposed
 	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:653)
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:590)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1461)
+<<<<<<< HEAD
 !SESSION 2022-01-25 08:49:43.418 -----------------------------------------------
 eclipse.buildId=4.19.0.I20210303-1800
 java.version=15.0.2
@@ -3244,3 +3245,5 @@ java.lang.Error: SWT Resource was not properly disposed
 	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:653)
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:590)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1461)
+=======
+>>>>>>> ae1782e75afcc09c83025a9b1ba2cacab8982b9f
