@@ -1,0 +1,18 @@
+INDEX VERSION 1.131+D:\GitHub\DailyStudy\.metadata\.plugins\org.eclipse.jdt.core
+1112990138.index
+1350870853.index
+2334093764.index
+3968208526.index
+440432691.index
+2850725200.index
+3399064216.index
+4101575623.index
+3391412851.index
+1895141471.index
+613241310.index
+2187043517.index
+2045088402.index
+2629503512.index
+359656673.index
+3821692491.index
+1015640307.index
